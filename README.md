@@ -10,8 +10,12 @@
 ### MarketData.csv & sentimentData.csv
 * Dados disponibilizados.
 
+
 ### exercicio1.ipynb
-* Solução do Exercício 1.
+* Melhor solução do Exercício 1.
+
+### exercicio1_2.ipynb & exercicio1_3.ipynb
+* Soluções alternativas do Exercício 1 com diferentes modos de calcular o Sentiment Score. 
 
 <br/>
 
