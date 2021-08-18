@@ -1,5 +1,5 @@
 /* QUERY SOLUÇÃO */
-SELECT B.date, A.close
+SELECT DATE_FORMAT(B.date, "%d/%m/%Y") as Date, A.close
 FROM BenchmarkPrice B 
 	LEFT JOIN  AssetPrice A
 	ON B.date = A.date
