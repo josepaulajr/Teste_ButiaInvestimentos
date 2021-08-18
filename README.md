@@ -5,7 +5,7 @@
 
 <br/>
 
-## /Exercício 1
+## /exercicio1
 
 ### MarketData.csv & sentimentData.csv
 * Dados disponibilizados.
@@ -15,7 +15,7 @@
 
 <br/>
 
-## /Exercício 2
+## /exercicio2
 
 ### exercicio2.sql
 * Solução do Exercício 2.
